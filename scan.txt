@@ -1,0 +1,6 @@
+https://pentest-tools.com/website-vulnerability-scanning/website-scanner
+https://vulners.com/home = > login: rah_jean@yahoo.fr ou rahjean pass: 000030Cochon
+
+└─$ sudo gvm-start  => openvas
+
+https://www.ducine.co/series-vostfr/the-big-bang-theory-saison-1-episode-1-19115.html
